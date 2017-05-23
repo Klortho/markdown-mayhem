@@ -1,5 +1,8 @@
 # Markdown Mayhem
 
+This implementation of RenderMath uses the [mathjax-node
+library](https://github.com/mathjax/mathjax-node).
+
 This test file was forked from [this mrkd
 gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d), and it illustrates
 some of the differences between the Markdown syntaxes.
