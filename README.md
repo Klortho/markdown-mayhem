@@ -2,12 +2,6 @@
 
 This test file was forked from [this mrkd gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d), and it illustrates some of the differences between the Markdown syntaxes.
 
-The first problem to note is the difference in line breaks. This
-paragraph is written with newlines. GitHub does not insert a line
-break in the rendered output, but BitBucket does.
-
-
-
 
 ## Day 2: Closure exercises
 
