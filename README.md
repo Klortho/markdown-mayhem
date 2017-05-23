@@ -1,7 +1,16 @@
 # Markdown Mayhem
 
-This test file was forked from [this mrkd gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d), and it illustrates some of the differences between the Markdown syntaxes.
+This test file was forked from [this mrkd
+gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d), and it illustrates
+some of the differences between the Markdown syntaxes.
 
+## References
+
+* [GitHub Help - Writing on GitHub](https://help.github.com/categories/writing-on-github/)
+* [BitBucket Server - Markdown Syntax
+  Guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
+* [BitBucket stash readme parser plugin issue #32 - Support GitHub-flavored
+  Markdown](https://bitbucket.org/pirateninjaunicorn/stash-readme-parser/issues/32/support-github-flavored-markdown)
 
 ## Day 2: Closure exercises
 
