@@ -1,11 +1,15 @@
 # Markdown Mayhem
 
-This implementation of RenderMath uses the [mathjax-node
-library](https://github.com/mathjax/mathjax-node).
-
 This test file was forked from [this mrkd
-gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d), and it illustrates
+gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d). It's simply a
+sample file that illustrates
 some of the differences between the Markdown syntaxes.
+
+See them here:
+
+* [GitHub klortho/markdown-mayhem](https://github.org/klortho/markdown-mayhem)
+* [BitBucket klortho/markdown-mayhem](https://bitbucket.org/klortho/markdown-mayhem)
+* (private) [NCBI internal]("${}")
 
 ## References
 
