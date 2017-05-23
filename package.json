@@ -1,0 +1,28 @@
+{
+  "name": "markdown-mayhem",
+  "version": "1.0.0",
+  "description": "Little repo for illustrating differences in Markdown rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "push-all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klortho/markdown-mayhem.git"
+  },
+  "keywords": [
+    "markdown",
+    "github",
+    "bitbucket"
+  ],
+  "author": "Chris Maloney",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Klortho/markdown-mayhem/issues"
+  },
+  "homepage": "https://github.com/Klortho/markdown-mayhem#readme",
+  "dependencies": {
+    "handlebars": "^4.0.10"
+  }
+}
