@@ -1,5 +1,16 @@
+# Markdown Mayhem
+
+This test file was forked from [this mrkd gist](https://gist.github.com/mrkd/a7f5087b562a0dafe94d), and it illustrates some of the differences between the Markdown syntaxes.
+
+The first problem to note is the difference in line breaks. This
+paragraph is written with newlines. GitHub does not insert a line
+break in the rendered output, but BitBucket does.
+
+
+
 
 ## Day 2: Closure exercises
+
 1. Write a function, `nonsense` that takes an input `string`. This function contains another function, `blab` which alerts `string` and is immediately called inside the function `nonsense`. `blab` should look like this inside of the `nonsense` function:
 
 	```javascript
